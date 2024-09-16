@@ -9,5 +9,6 @@ public class DZ {
         System.out.println(a - b);
         System.out.println("c1");
         System.out.println("c2");
+        System.out.println("c3");
     }
 }
