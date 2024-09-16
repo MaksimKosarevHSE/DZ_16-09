@@ -8,5 +8,6 @@ public class DZ {
         int b = sc.nextInt();
         System.out.println("c1");
         System.out.println("c2");
+        System.out.println("c3");
     }
 }
