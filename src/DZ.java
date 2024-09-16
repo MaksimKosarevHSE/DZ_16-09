@@ -7,5 +7,6 @@ public class DZ {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println("c1");
+        System.out.println("c2");
     }
 }
