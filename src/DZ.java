@@ -6,10 +6,7 @@ public class DZ {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        System.out.println("c1");
-        System.out.println("c2");
-        System.out.println("c3");
-        System.out.println("c4");
-        System.out.println();
+        System.out.println("Спасибо за использование программы! " +
+                "Вы ввели: " + a + "; " + b);
     }
 }
