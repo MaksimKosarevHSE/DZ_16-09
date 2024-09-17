@@ -9,6 +9,6 @@ public class DZ {
         System.out.println("Спасибо за использование программы! " +
                 "Вы ввели: " + a + "; " + b);
         //c1
-        //c2 c5 c6
+        //c2 c5 c6 c8'
     }
 }
