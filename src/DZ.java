@@ -8,5 +8,6 @@ public class DZ {
         int b = sc.nextInt();
         System.out.println("Спасибо за использование программы! " +
                 "Вы ввели: " + a + "; " + b);
+        //c1
     }
 }
